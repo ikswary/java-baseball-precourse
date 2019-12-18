@@ -6,6 +6,9 @@
  * 날짜 : 19-11-29
  */
 
+
+ 
+
 import java.util.Scanner;
 
 class Num{
